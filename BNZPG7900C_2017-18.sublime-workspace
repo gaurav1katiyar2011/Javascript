@@ -1,0 +1,354 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"Provider"
+			],
+			[
+				"to",
+				"todosFilter"
+			],
+			[
+				"pr",
+				"props"
+			],
+			[
+				"c",
+				"container"
+			],
+			[
+				"To",
+				"TodosList"
+			],
+			[
+				"A",
+				"AddTodo"
+			],
+			[
+				"get",
+				"getRecipe"
+			],
+			[
+				"co",
+				"configureStore"
+			],
+			[
+				"p",
+				"preloadedState"
+			],
+			[
+				"create",
+				"createStore"
+			],
+			[
+				"re",
+				"reducers"
+			],
+			[
+				"creat",
+				"createLogger"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pu",
+		"selected_items":
+		[
+			[
+				"pu",
+				"Git: Pull"
+			],
+			[
+				"",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git pu",
+				"Git: Pull"
+			],
+			[
+				"git ",
+				"Git: Fetch"
+			],
+			[
+				"git br",
+				"Git: Checkout New Branch"
+			],
+			[
+				"git",
+				"Git: Help"
+			],
+			[
+				"pull ",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"git re",
+				"Git: Remote"
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git a",
+				"Git: Add Remote"
+			],
+			[
+				"gs",
+				"Git: Status"
+			],
+			[
+				"gi",
+				"Git: Init"
+			],
+			[
+				"git in",
+				"Git: Init"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import os; os.system('git --version')",
+			"git remote -v",
+			"import os; os.system('git --version')",
+			"import os; print os.getenv('PATH')",
+			"npm start"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Gaurav/workspace/laraxt/app/Http/Controllers/ProfileController.php",
+		"/C/Users/Gaurav/workspace/laraxt/resources/views/auth/login.blade.php",
+		"/C/Users/Gaurav/workspace/laraxt/resources/views/auth/register.blade.php",
+		"/C/Users/Gaurav/workspace/laraxt/resources/views/profile.blade.php",
+		"/C/Users/Gaurav/workspace/laraxt/resources/views/layouts/app.blade.php",
+		"/C/Users/Gaurav/workspace/laraxt/routes/web.php",
+		"/C/Users/Gaurav/workspace/laraxt/.env",
+		"/C/Users/Gaurav/workspace/laraxt/app/Http/Controllers/Controller.php",
+		"/C/Users/Gaurav/workspace/laraxt/vendor/laravel/framework/src/Illuminate/Routing/Controller.php",
+		"/C/Users/Gaurav/workspace/laraxt/vendor/laravel/framework/src/Illuminate/Foundation/Auth/Access/AuthorizesRequests.php",
+		"/C/Users/Gaurav/workspace/laraxt/resources/views/home.blade.php",
+		"/C/Users/Gaurav/workspace/laraxt/app/Http/Controllers/HomeController.php",
+		"/C/Users/Gaurav/workspace/laraxt/public/.htaccess",
+		"/C/Users/Gaurav/workspace/laraxt/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/Users/Gaurav/workspace/laraxt/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/C/Users/Gaurav/workspace/laraxt/app/Providers/AppServiceProvider.php",
+		"/C/Users/Gaurav/workspace/laraxt/package.json",
+		"/C/Users/Gaurav/workspace/laraxt/phpunit.xml",
+		"/C/Users/Gaurav/workspace/laraxt/readme.md",
+		"/C/Users/Gaurav/workspace/laraxt/server.php",
+		"/C/Users/Gaurav/workspace/laraxt/webpack.mix.js",
+		"/C/Users/Gaurav/workspace/laraxt/artisan",
+		"/C/Users/Gaurav/workspace/laraxt/.env.example",
+		"/C/Users/Gaurav/Downloads/temp/src/App.js",
+		"/C/Users/Gaurav/Downloads/temp/src/index.js",
+		"/C/Users/Gaurav/Downloads/temp/src/component/Holiday.js",
+		"/C/Users/Gaurav/Downloads/react-weather-app-master/src/App.js",
+		"/C/Users/Gaurav/Downloads/temp/src/component/form-elements/FormElements.js",
+		"/C/Users/Gaurav/Downloads/temp/src/component/OfficeHour.js",
+		"/C/Users/Gaurav/Downloads/temp/src/container/FiltersList.js",
+		"/C/Users/Gaurav/Downloads/temp/src/container/Filter.js",
+		"/C/Users/Gaurav/Downloads/temp/src/container/AddTodo.js",
+		"/C/Users/Gaurav/Downloads/temp/src/container/TodoList.js",
+		"/C/Users/Gaurav/Downloads/temp/src/container/Todo.js",
+		"/C/Users/Gaurav/Downloads/temp/src/action/todo.js",
+		"/C/Users/Gaurav/Downloads/temp/src/reducer/index.js",
+		"/C/Users/Gaurav/Downloads/temp/src/reducer/todoList.js",
+		"/C/Users/Gaurav/Downloads/temp/src/reducer/todosFilter.js",
+		"/C/Users/Gaurav/Downloads/temp/node_modules/react-dom/cjs/react-dom.development.js",
+		"/H/React/reactsampleProject/react-redux-blog-master/app.js",
+		"/C/Users/Gaurav/Downloads/react-redux-realworld-example-app-master/.gitignore",
+		"/H/Redux/react-app/src/index.js",
+		"/H/Redux/react-app/src/middleware/middleware.js",
+		"/H/Redux/react-app/src/reducer/reducer.js",
+		"/H/Redux/react-app/src/store/store.js",
+		"/H/Redux/react-app/src/action/action.js",
+		"/H/React/uplaodDrive/components/Examples.js",
+		"/H/React/uplaodDrive/redux/store/config.js",
+		"/H/React/uplaodDrive/redux/middlewares/index.js",
+		"/H/React/uplaodDrive/redux/reducers/index.js",
+		"/H/react-js-tutorials-master/4-redux/src/index.html",
+		"/H/react-js-tutorials-master/4-redux/src/client.min.js",
+		"/H/react-js-tutorials-master/4-redux/src/js/4-async-middleware.js",
+		"/H/react-js-tutorials-master/4-redux/src/js/3-middleware.js",
+		"/H/react-js-tutorials-master/4-redux/src/js/2-multiple-reducers.js",
+		"/H/react-js-tutorials-master/4-redux/src/js/1-basic-setup.js",
+		"/H/react-js-tutorials-master/4-redux/src/js/components/Layout.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "BNZPG7900C_2017-18.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Routing\\Controller",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Controller.php"
+			],
+			[
+				"AuthorizesRequests",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\Access\\AuthorizesRequests.php"
+			],
+			[
+				"Controller",
+				"app\\Http\\Controllers\\Controller.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 320.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
